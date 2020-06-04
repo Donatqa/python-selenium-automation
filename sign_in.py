@@ -1,0 +1,8 @@
+# Amazon logo "//i[@class='a-icon a-icon-logo']"
+# Continue button "//input[@id='continue']"
+# Need help link "//span[@class='a-expander-prompt']"
+# Forgot your password link"//a[@id='auth-fpp-link-bottom']"
+# Other issues with Sign-In link "//a[@id='ap-other-signin-issues-link']"
+# Create your Amazon account button "//a[@id='createAccountSubmit']"
+# *Conditions of use link "//div[@id='legalTextRow']//a[contains(text(),'Conditions of Use')]"
+# *Privacy Notice link "//div[@id='legalTextRow']//a[contains(text(),'Privacy Notice')]"
